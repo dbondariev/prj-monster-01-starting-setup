@@ -2,7 +2,7 @@
 
 This is a basic Vue.js project that demonstrates some of the fundamental concepts of Vue.js.
 
-## You can view the demo of this project here : 
+## You can view the demo of this project here : [https://dbondariev.github.io/prj-monster-01-starting-setup/]
 
 ## Installation
 
